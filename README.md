@@ -2,7 +2,7 @@
 
 A sleek and responsive Todo application built with vanilla JavaScript, featuring a beautiful dark theme and smooth animations.
 
-![Todo App Screenshot](https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=600&fit=crop)g
+![Todo App Screenshot](https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=600&fit=crop)
 
 ## ✨ Features
 
