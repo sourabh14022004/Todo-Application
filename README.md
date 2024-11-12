@@ -39,7 +39,7 @@ A sleek and responsive Todo application built with vanilla JavaScript, featuring
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/sourabh14022004/Todo-Application
    ```
 
 2. Open `index.html` in your browser
@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://www.linkedin.com/in/sourabh-sarkar-a32821293/) - email@example.com
+Your Name - [@yourlinkdin](https://www.linkedin.com/in/sourabh-sarkar-a32821293/) - sourabhsorkarmng19@gmail.com
 
-Project Link: [https://github.com/yourusername/todo-app](https://github.com/yourusername/todo-app)
+Project Link: [https://github.com/sourabh14022004/todo-app](https://github.com/sourabh14022004/Todo-Application)
